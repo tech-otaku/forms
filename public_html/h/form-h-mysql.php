@@ -72,7 +72,7 @@
 <a href="https://github.com/tech-otaku/forms" target="_blank">forms</a>
   |-- public_html/
       |-- g/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/g/form-h-mysql.php" target="_blank">form-h-mysql.php</a>  
+          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/h/form-h-mysql.php" target="_blank">form-h-mysql.php</a>  
       |-- scripts/
           |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/scripts/form-h-process.js" target="_blank">form-h-process.js</a>  
       |-- styles/

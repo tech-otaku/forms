@@ -23,7 +23,6 @@
         // Global PDO exception handler to avoid using explicit individual try/catch blocks
         set_exception_handler(function($e) {
             error_log($e->getMessage());
-            echo 
             exit('Whoops! Something odd just happened.');
         });
 

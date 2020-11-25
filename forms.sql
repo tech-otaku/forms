@@ -18,6 +18,6 @@ CREATE TABLE `macos` (
   `version` varchar(15) COLLATE utf8_unicode_ci DEFAULT NULL,
   `release` date DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
-INSERT INTO `macos` VALUES (1,'Kodiak','Public Beta','2000-09-13'),(2,'Cheetah','10.0','2001-03-21'),(3,'Puma','10.1','2001-09-25'),(4,'Jaguar','10.2','2002-08-24'),(5,'Panther','10.3','2003-10-24'),(6,'Tiger','10.4','2005-04-29'),(7,'Leopard','10.5','2007-10-26'),(8,'Snow Leopard','10.6','2009-08-28'),(9,'Lion','10.7','2010-07-20'),(10,'Mountain Lion','10.8','2012-07-25'),(11,'Mavericks','10.9','2013-10-22'),(12,'Yosemite','10.10','2014-10-16'),(13,'El Capitan','10.11','2015-09-30'),(14,'Sierra','10.12','2016-09-20'),(15,'High Sierra','10.13','2017-09-25'),(16,'Mojave','10.14','2018-09-24'),(17,'Catalina','10.15','2019-10-07');
+INSERT INTO `macos` VALUES (1,'Kodiak','Public Beta','2000-09-13'),(2,'Cheetah','10.0','2001-03-21'),(3,'Puma','10.1','2001-09-25'),(4,'Jaguar','10.2','2002-08-24'),(5,'Panther','10.3','2003-10-24'),(6,'Tiger','10.4','2005-04-29'),(7,'Leopard','10.5','2007-10-26'),(8,'Snow Leopard','10.6','2009-08-28'),(9,'Lion','10.7','2010-07-20'),(10,'Mountain Lion','10.8','2012-07-25'),(11,'Mavericks','10.9','2013-10-22'),(12,'Yosemite','10.10','2014-10-16'),(13,'El Capitan','10.11','2015-09-30'),(14,'Sierra','10.12','2016-09-20'),(15,'High Sierra','10.13','2017-09-25'),(16,'Mojave','10.14','2018-09-24'),(17,'Catalina','10.15','2019-10-07'),(18,'Big Sur','11.0','2020-11-12');

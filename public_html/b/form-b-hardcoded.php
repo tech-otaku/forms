@@ -63,6 +63,7 @@
                     <h4 class="heading">What macOS (OS X) releases have you used?</h4>
 
                     <!-- Checkboxes -->
+                    <input type='checkbox' name='macos-releases-used[]' value='Ventura (13.0)' checked/>Ventura (13.0)<br>
                     <input type='checkbox' name='macos-releases-used[]' value='Monterey (12.0)' checked/>Monterey (12.0)<br>
                     <input type='checkbox' name='macos-releases-used[]' value='Big Sur (11.0)' checked/>Big Sur (11.0)<br>
                     <input type='checkbox' name='macos-releases-used[]' value='Catalina (10.15)' checked/>Catalina (10.15)<br>
@@ -92,6 +93,7 @@
                     <h4 class="heading">What is your favourite macOS (OS X) release?</h4>
 
                     <!-- Radio buttons -->
+                    <input type='radio' name='fav-macos-release' value='Ventura (13.0)'/>Ventura (13.0)<br>
                     <input type='radio' name='fav-macos-release' value='Monterey (12.0)'/>Monterey (12.0)<br>
                     <input type='radio' name='fav-macos-release' value='Big Sur (11.0)'/>Big Sur (11.0)<br>
                     <input type='radio' name='fav-macos-release' value='Catalina (10.15)'/>Catalina (10.15)<br>

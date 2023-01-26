@@ -1,8 +1,8 @@
--- MySQL dump 10.13  Distrib 5.7.32, for osx10.12 (x86_64)
+-- MySQL dump 10.13  Distrib 5.7.34, for osx11.0 (x86_64)
 --
 -- Host: localhost    Database: forms
 -- ------------------------------------------------------
--- Server version	5.7.32
+-- Server version	5.7.34
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -55,7 +55,7 @@ CREATE TABLE `macos` (
   `version` varchar(15) COLLATE utf8_unicode_ci DEFAULT NULL,
   `release` date DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=20 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -64,7 +64,7 @@ CREATE TABLE `macos` (
 
 LOCK TABLES `macos` WRITE;
 /*!40000 ALTER TABLE `macos` DISABLE KEYS */;
-INSERT INTO `macos` VALUES (1,'Kodiak','Public Beta','2000-09-13'),(2,'Cheetah','10.0','2001-03-21'),(3,'Puma','10.1','2001-09-25'),(4,'Jaguar','10.2','2002-08-24'),(5,'Panther','10.3','2003-10-24'),(6,'Tiger','10.4','2005-04-29'),(7,'Leopard','10.5','2007-10-26'),(8,'Snow Leopard','10.6','2009-08-28'),(9,'Lion','10.7','2010-07-20'),(10,'Mountain Lion','10.8','2012-07-25'),(11,'Mavericks','10.9','2013-10-22'),(12,'Yosemite','10.10','2014-10-16'),(13,'El Capitan','10.11','2015-09-30'),(14,'Sierra','10.12','2016-09-20'),(15,'High Sierra','10.13','2017-09-25'),(16,'Mojave','10.14','2018-09-24'),(17,'Catalina','10.15','2019-10-07'),(18,'Big Sur','11','2020-11-12'),(19,'Monterey','12','2021-10-25');
+INSERT INTO `macos` VALUES (1,'Kodiak','Public Beta','2000-09-13'),(2,'Cheetah','10.0','2001-03-21'),(3,'Puma','10.1','2001-09-25'),(4,'Jaguar','10.2','2002-08-24'),(5,'Panther','10.3','2003-10-24'),(6,'Tiger','10.4','2005-04-29'),(7,'Leopard','10.5','2007-10-26'),(8,'Snow Leopard','10.6','2009-08-28'),(9,'Lion','10.7','2010-07-20'),(10,'Mountain Lion','10.8','2012-07-25'),(11,'Mavericks','10.9','2013-10-22'),(12,'Yosemite','10.10','2014-10-16'),(13,'El Capitan','10.11','2015-09-30'),(14,'Sierra','10.12','2016-09-20'),(15,'High Sierra','10.13','2017-09-25'),(16,'Mojave','10.14','2018-09-24'),(17,'Catalina','10.15','2019-10-07'),(18,'Big Sur','11','2020-11-12'),(19,'Monterey','12','2021-10-25'),(20,'Ventura','13','2022-10-24');
 /*!40000 ALTER TABLE `macos` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -77,4 +77,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-03-26 14:53:28
+-- Dump completed on 2023-01-26  7:02:19

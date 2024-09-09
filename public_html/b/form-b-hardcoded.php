@@ -47,9 +47,9 @@
 <a href="https://github.com/tech-otaku/forms" target="_blank">forms</a>
   |-- public_html/
       |-- b/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/b/form-b-hardcoded.php" target="_blank">form-b-hardcoded.php</a>  
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/b/form-b-hardcoded.php" target="_blank">form-b-hardcoded.php</a>  
       |-- styles/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/styles/form.css" target="_blank">form.css</a>  
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/styles/form.css" target="_blank">form.css</a>  
                     </pre>
                     
                 </div>
@@ -63,6 +63,7 @@
                     <h4 class="heading">What macOS (OS X) releases have you used?</h4>
 
                     <!-- Checkboxes -->
+                    <input type='checkbox' name='macos-releases-used[]' value='Sonoma (14.0)' checked/>Sonoma (14.0)<br>
                     <input type='checkbox' name='macos-releases-used[]' value='Ventura (13.0)' checked/>Ventura (13.0)<br>
                     <input type='checkbox' name='macos-releases-used[]' value='Monterey (12.0)' checked/>Monterey (12.0)<br>
                     <input type='checkbox' name='macos-releases-used[]' value='Big Sur (11.0)' checked/>Big Sur (11.0)<br>
@@ -93,6 +94,7 @@
                     <h4 class="heading">What is your favourite macOS (OS X) release?</h4>
 
                     <!-- Radio buttons -->
+                    <input type='radio' name='fav-macos-release' value='Sonoma (14.0)'/>Sonoma (14.0)<br>
                     <input type='radio' name='fav-macos-release' value='Ventura (13.0)'/>Ventura (13.0)<br>
                     <input type='radio' name='fav-macos-release' value='Monterey (12.0)'/>Monterey (12.0)<br>
                     <input type='radio' name='fav-macos-release' value='Big Sur (11.0)'/>Big Sur (11.0)<br>

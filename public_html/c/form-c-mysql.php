@@ -79,13 +79,13 @@
 <a href="https://github.com/tech-otaku/forms" target="_blank">forms</a>
   |-- public_html/
       |-- c/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/c/form-c-mysql.php" target="_blank">form-c-mysql.php</a>  
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/c/form-c-mysql.php" target="_blank">form-c-mysql.php</a>  
       |-- scripts/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/scripts/form-c-process.js" target="_blank">form-c-process.js</a>  
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/scripts/form-c-process.js" target="_blank">form-c-process.js</a>  
       |-- styles/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/styles/form.css" target="_blank">form.css</a>  
-      |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/form-request-text.php" target="_blank">form-request-text.php</a>      
-  |-- <a href="https://github.com/tech-otaku/forms/blob/master/mysql-credentials.ini.template" target="_blank">mysql-credentials.ini</a>
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/styles/form.css" target="_blank">form.css</a>  
+      |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/form-request-text.php" target="_blank">form-request-text.php</a>      
+  |-- <a href="https://github.com/tech-otaku/forms/blob/main/mysql-credentials.ini.template" target="_blank">mysql-credentials.ini</a>
                     </pre>
                     
                 </div>

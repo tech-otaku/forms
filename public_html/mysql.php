@@ -74,9 +74,9 @@
                 <pre>
 <a href="https://github.com/tech-otaku/forms" target="_blank">forms</a>
   |-- public_html/
-      |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/mysql.php" target="_blank">mysql.php</a>
+      |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/mysql.php" target="_blank">mysql.php</a>
       |-- styles/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/styles/form.css" target="_blank">form.css</a>
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/styles/form.css" target="_blank">form.css</a>
                 </pre>
                     
             </div> 

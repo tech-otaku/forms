@@ -79,11 +79,11 @@
 <a href="https://github.com/tech-otaku/forms" target="_blank">forms</a>
   |-- public_html/
       |-- a/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/a/form-a-mysql.php" target="_blank">form-a-mysql.php</a>  
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/a/form-a-process.php" target="_blank">form-a-process.php</a>  
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/a/form-a-mysql.php" target="_blank">form-a-mysql.php</a>  
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/a/form-a-process.php" target="_blank">form-a-process.php</a>  
       |-- styles/
-          |-- <a href="https://github.com/tech-otaku/forms/blob/master/public_html/styles/form.css" target="_blank">form.css</a>  
-  |-- <a href="https://github.com/tech-otaku/forms/blob/master/mysql-credentials.ini.template" target="_blank">mysql-credentials.ini</a>
+          |-- <a href="https://github.com/tech-otaku/forms/blob/main/public_html/styles/form.css" target="_blank">form.css</a>  
+  |-- <a href="https://github.com/tech-otaku/forms/blob/main/mysql-credentials.ini.template" target="_blank">mysql-credentials.ini</a>
                     </pre>
                     
                 </div>
